@@ -1,0 +1,17 @@
+.sapphirelogo {
+  height: 30rem;
+  width: 30rem;
+  margin-left: 33.12rem;
+  margin-right: 33.12rem;
+}
+
+.logo {
+  height: 30rem;
+  width: 30rem;
+}
+
+logo:hover {
+  height: 33.125rem;
+  width: 33.125rem;
+  margin-left: -1.5625rem;
+}
