@@ -10,7 +10,7 @@
   width: 30rem;
 }
 
-logo:hover {
+.logo:hover {
   height: 33.125rem;
   width: 33.125rem;
   margin-left: -1.5625rem;
