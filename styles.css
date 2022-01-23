@@ -32,3 +32,19 @@
   height: 95px;
   width: 95px;
 }
+
+.heading {
+  font-size: 50px;
+  margin: 0px;
+}
+
+.heading_div {
+  margin: auto;
+  margin-left: 355px;
+  margin-top: 3rem;
+}
+
+.sapphire {
+  margin: 0;
+    margin-left: 11rem;
+}
