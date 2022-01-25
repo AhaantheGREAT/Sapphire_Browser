@@ -1,21 +1,21 @@
+
 .sapphirelogo {
-  height: 30rem;
-  width: 30rem;
-  margin-left: 33.12%;
+  height: 12.5rem;
+  width: 12.5rem;
+  margin-left: 40.625rem;
   margin-right: 33.12%;
-  margin-top: 8%
+  margin-top: 7.25rem;
 }
 
 .logo {
-  height: 30rem;
-  width: 30rem;
-  margin-top: 1rem;
+  height: 12.5rem;
+  width: 12.5rem;
 }
 
 .logo:hover {
-  height: 33.125rem;
-  width: 33.125rem;
-  margin-left: -1.5625rem;
+  height: 15rem;
+  width: 15rem;
+  margin-left: -1rem;
 }
 
 .navbar {
@@ -25,7 +25,7 @@
   background-color: white;
   top: 0;
   left: 0;
-  box-shadow: 0 1px 5px 0 rgba(0, 0, 25), 0 1px 10px 0 rgba(0, 0, 255);
+  box-shadow: 0 1px 5px 0 rgba(0, 0, 25, 1), 0 1px 10px 0 rgba(0, 0, 255, 1);
 }
 
 .sapplogo1 {
@@ -34,17 +34,41 @@
 }
 
 .heading {
-  font-size: 50px;
-  margin: 0px;
+  font-size: 4.125rem;
+  margin: 0;
+  font-family: 'Calibri', sans-serif;
+  font-weight: normal;
 }
 
 .heading_div {
   margin: auto;
-  margin-left: 355px;
-  margin-top: 3rem;
+  margin-left: 21.875rem;
+  margin-top: 4.90rem;
+  width: 54.375rem;
 }
 
 .sapphire {
   margin: 0;
-    margin-left: 11rem;
+  margin-left: 11rem;
+  width: 16.25rem;
+}
+
+.btn {
+  -webkit-border-radius: 20;
+  -moz-border-radius: 20;
+  border-radius: 20px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #0084ff;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  border: 0;
+  margin-left: 18.25rem;
+  margin-top: 1rem;
+}
+
+.btn:hover {
+  background: #ff0000;
+  text-decoration: none;
 }
